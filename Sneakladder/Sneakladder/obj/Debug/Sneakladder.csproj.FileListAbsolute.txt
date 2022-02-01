@@ -1,0 +1,8 @@
+C:\Users\Sneakladder\Sneakladder\Sneakladder\bin\Debug\Sneakladder.exe.config
+C:\Users\Sneakladder\Sneakladder\Sneakladder\bin\Debug\Sneakladder.exe
+C:\Users\Sneakladder\Sneakladder\Sneakladder\bin\Debug\Sneakladder.pdb
+C:\Users\Sneakladder\Sneakladder\Sneakladder\obj\Debug\Sneakladder.csproj.AssemblyReference.cache
+C:\Users\Sneakladder\Sneakladder\Sneakladder\obj\Debug\Sneakladder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sneakladder\Sneakladder\Sneakladder\obj\Debug\Sneakladder.csproj.CoreCompileInputs.cache
+C:\Users\Sneakladder\Sneakladder\Sneakladder\obj\Debug\Sneakladder.exe
+C:\Users\Sneakladder\Sneakladder\Sneakladder\obj\Debug\Sneakladder.pdb
